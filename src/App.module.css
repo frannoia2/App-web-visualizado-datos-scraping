@@ -1,0 +1,15 @@
+.title{
+    text-align: center;
+    font-size: 3rem;
+    color: yellow;
+}
+
+.title:hover{
+    opacity: 0.7;
+}
+
+.subtitle{
+    text-align: center;
+    font-size: 2rem;
+    color:tomato;
+}

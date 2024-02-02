@@ -1,0 +1,38 @@
+[
+    {   
+        "id": 1,
+        "url": "https://mundo-r.com",
+        "facebook": "https://www.facebook.com/osdeR.oficial/",
+        "twitter": "https://twitter.com/os_de_R",
+        "instagram": "https://www.instagram.com/os_de_r/?hl=es",
+        "youtube": "https://www.youtube.com/c/os_de_R",
+        "blog": "https://blog.mundo-r.com/",
+        "tiktok": "No tiene",
+        "pinterest": "No tiene",
+        "spotify": "No tiene"
+    },
+    {   
+        "id": 2,
+        "url": "https://www.zara.com/es/",
+        "facebook": "https://www.facebook.com/Zara",
+        "twitter": "https://twitter.com/zaraes",
+        "instagram": "https://www.instagram.com/zara/",
+        "youtube": "http://www.youtube.com/user/zara",
+        "blog": "No tiene",
+        "tiktok": "https://www.tiktok.com/@zara",
+        "pinterest": "https://es.pinterest.com/zaraofficial",
+        "spotify": "https://open.spotify.com/user/r6ivwuv0ebk346hhxo446pbfv"
+    },
+    {
+        "id": 3,
+        "url": "https://www.gadis.es",
+        "facebook": "No tiene",
+        "twitter": "No tiene",
+        "instagram": "No tiene",
+        "youtube": "No tiene",
+        "blog": "No tiene",
+        "tiktok": "No tiene",
+        "pinterest": "No tiene",
+        "spotify": "No tiene"
+    }
+]
